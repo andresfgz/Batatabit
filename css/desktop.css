@@ -1,0 +1,106 @@
+header {
+    
+}
+
+.header--title-container h1 {
+   
+    font-size: 4.0rem;
+    line-height: 5.0rem;
+    text-align: center;
+}
+
+.header--title-container p  {
+    font-size: 2.3rem;
+}
+
+.header--title-container .header--button {
+    font-size: 1.9rem;
+    vertical-align: super;
+    width: 300px;
+}
+
+p {
+    font-size: 2.2rem;
+}
+
+h2 {
+    font-size: 2.4rem;
+}
+
+.plan-card--title{
+    font-size: 2.4rem;
+}
+
+.plan-card--saving{
+    font-size: 1.9rem;
+}
+
+span {
+    font-size: 2.4rem;
+}
+
+.main-excange-container--title h2 {
+    font-size: 3.5rem;
+}
+.main-excange-container--title p {
+    font-size: 2.5rem;
+    padding-top: 10px;
+}
+
+.product--card-title {
+    font-size: 2.8rem;
+}
+
+.product--card-body {
+    font-size: 2.0rem;
+}
+
+.bitcoing-img-container h2 {
+    font-size: 4.2rem;
+}
+
+.plans--title h2 {
+    font-size: 3.0rem;
+}
+
+.plans--title p {
+    font-size: 2.8rem;
+}
+
+.plans-container--card{
+    width: 100%;
+    max-width: 350px;
+    height: 400px;
+}
+
+.plans-container--slider {
+    height: 600px;
+}
+
+.plans-container--card .recomendado{
+    font-size: 1.6rem;
+}
+
+.plans-container--card .plan-card--title{
+    font-size: 3.0rem;
+    padding-top: 70px;
+}
+
+.plans-container--card .plan-card-price{
+    font-size: 7.5rem;
+    padding-top: 30px;
+}
+
+.plans-container--card .plan-card--saving{
+    font-size: 2.6rem;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.plans-container--card .plan-card--ca {
+    font-size: 1.8rem;
+}
+
+.plan-card-price span {
+    font-size: 2.3rem;
+}
